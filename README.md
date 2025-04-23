@@ -58,21 +58,3 @@ Contributions are welcome to expand Random-Art!
 This project is licensed under the [MIT License].
 
 ---
-
-### **About Section**  
-For the About section, you can use:  
-"An exploration of generative art through Python programming, creating unique, algorithmically generated patterns and designs."
-
-### **Topics**  
-Here are some topic suggestions:  
-- `generative-art`  
-- `python`  
-- `creative-programming`  
-- `data-visualization`  
-- `matplotlib`  
-- `algorithmic-art`  
-- `randomness`  
-- `art-and-technology`  
-- `visual-design`
-
----
